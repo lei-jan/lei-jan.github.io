@@ -1,9 +1,0 @@
-html,body{margin:0;height:100%;background:#050507;color:#8f8f9e;font:12px/1.45 ui-monospace,Menlo,Consolas,monospace;overflow:hidden}
-body{display:flex;align-items:center;justify-content:center}
-#c{image-rendering:pixelated;display:block;cursor:crosshair}
-#hud{position:fixed;left:10px;top:10px;padding:8px 10px;background:rgba(5,5,7,.65);border:1px solid #26262e}
-.row{display:flex;gap:4px}
-input,button{font:inherit;color:inherit;background:#0c0c10;border:1px solid #34343f;padding:2px 6px}
-button{cursor:pointer}button:hover,input:focus{border-color:#80809a;outline:none}
-#mood{margin-top:6px;color:#dcdce8}
-.keys{margin-top:6px;opacity:.55}
